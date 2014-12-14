@@ -2,13 +2,13 @@
 
 Summary:	Error - error/exception handling in an OO-ish way
 Name:		perl-Error
-Version:	0.17020
+Version:	0.17022
 Release:	1
 # same as perl
 License:	GPL v1 or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Error/Error-%{version}.tar.gz
-# Source0-md5:	4ff667250bd9afabfe26c739382e656d
+# Source0-md5:	f4d825f4be915ae90bf2e0d66734956b
 BuildRequires:	perl-devel
 BuildRequires:	rpm-perlprov
 BuildArch:	noarch
